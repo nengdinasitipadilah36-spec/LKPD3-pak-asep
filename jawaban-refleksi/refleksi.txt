@@ -1,0 +1,9 @@
+1: Mengapa branch diperlukan?
+jawabannya: untuk mengembangkan fitur baru secara terpisah tanpa mengganggu kode Utama
+
+2: Keuntungan bekerja di branch?
+jawabanny: Kode Utama tetap aman dari eror/kebocoran draf saat kita sedang bereksperimen.
+
+3: Kapan membuat branch baru?
+jawabannya: Setiap kali akan menambah fitur baru.
+            memperbaiki bug, atau mencoba eksperimen kode baru
